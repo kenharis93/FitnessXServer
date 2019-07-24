@@ -1,0 +1,5 @@
+{
+    "mongoConn" : "mongodb+srv://root:root@cluster0-uj26y.mongodb.net/Workout?retryWrites=true&w=majority",
+                    
+    "jwtSecret" : "secret"
+}
